@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": "1",
+      "title": "Quisque egestas odio ac dui",
+      "body": "Nulla facilisi. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum."
+    },
+    {
+      "userId": 2,
+      "id": "2",
+      "title": "Nulla facilisi Aenean eu leo",
+      "body": "Sed posuere consectetur est at lobortis. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum."
+    },
+    {
+      "userId": 3,
+      "id": "3",
+      "title": "Sed posuere consectetur est",
+      "body": "Donec diam dui, tempor a semper eu, pretium quis sem. Mauris sit amet nibh vel metus malesuada."
+    },
+    {
+      "userId": 4,
+      "id": "4",
+      "title": "Donec diam dui, tempor a",
+      "body": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
+    },
+    {
+      "userId": 5,
+      "id": "5",
+      "title": "Vestibulum ante ipsum primis",
+      "body": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus."
+    },
+    {
+      "userId": 1,
+      "id": "6",
+      "title": "In hac habitasse platea dictumst",
+      "body": "Curabitur at lacus ultrices velit sodales nec euismod. Donec sed odio dui."
+    },
+    {
+      "userId": 10,
+      "id": "30",
+      "title": "Proin eu lobortis mi",
+      "body": "Curabitur aliquet quam id dui. Vivamus magna dolor, dapibus ac facilisis in, egestas eget quam."
+    }
+  ]
+  
+}
